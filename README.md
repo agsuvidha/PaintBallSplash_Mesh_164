@@ -1,1 +1,2 @@
-# PRO-C164-Project-Solution
+Paint Ball Splash using AFRAME and Navigation Mesh
+Pro- 164
